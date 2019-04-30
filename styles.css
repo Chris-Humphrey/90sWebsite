@@ -1,0 +1,58 @@
+nav{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://www.syfy.com/sites/syfy/files/wire/legacy/star-wars-battle-pod-03.jpg");
+    background-size: cover;
+    line-height: 1.7;
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    font-size: 40px;
+    color: yellow;
+    letter-spacing: .1em;
+    margin: 0px 10px;
+}
+
+h5 {
+    font-size: 40px;
+    color: yellow;
+    letter-spacing: .1em;
+    margin: 50px 00px;
+    text-align: center;
+}
+
+h6 {
+    font-size: 30px;
+    color: yellow;
+    letter-spacing: .05em;
+    margin: 50px 230px;
+}
+
+#mainChar {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+#ships {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+.char {
+    display: block;
+    margin: 0px 10px auto;
+    width: 40%;
+}
